@@ -1,3 +1,4 @@
+# sforum is no longer under active development and all services have been closed effective May 3rd, 2020 @ 9:14 PM EST
 # Welcome to sforum! 
 sforum (formerly pforum) is a simple, category-based multilanguage forum and CMS software, with a complete admin panel.
 
