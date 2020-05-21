@@ -1,3 +1,4 @@
+# Attention: As of May 2nd, 2020, we have decided to close the sforum project. All websites linked to this project have been shutdown permanently, and all files tied to this repo have been removed alongside the readme. Thank you for using this project as long as it has been around for. All uses should now use a different forum software as we cannot guarantee stability now.
 # Welcome to sforum! 
 sforum (formerly pforum) is a simple, category-based multilanguage forum and CMS software, with a complete admin panel.
 
